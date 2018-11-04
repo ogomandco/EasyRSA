@@ -18,7 +18,7 @@
         "phpseclib/phpseclib": "^2.0",
         "defuse/php-encryption": "^2.0",
         "paragonie/constant_time_encoding": "^1|^2",
-        "paragonie/random_compat": "^1|^2",
+        "paragonie/random_compat": ">=1",
         "sarciszewski/php-future": "^0"
     },
     "require-dev": {
